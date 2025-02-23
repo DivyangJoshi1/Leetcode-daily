@@ -1,0 +1,32 @@
+# Definition for a binary tree node.
+from typing import List, Optional
+
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+class Solution:
+    def constructFromPrePost(self, preorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
+        postToIndex = {num: i for i, num in enumerate(postorder)}
+
+        def build(preStart: int, preEnd: int, postStart: int, postEnd: int) -> Optional[TreeNode]:
+            if preStart > preEnd:
+                return None
+            if preStart == preEnd:
+                return TreeNode(preorder[preStart])
+
+            rootVal = preorder[preStart]
+            leftRootVal = preorder[preStart + 1]
+            leftRootPostIndex = postToIndex[leftRootVal]
+            leftSize = leftRootPostIndex - postStart + 1
+
+            root = TreeNode(rootVal)
+            root.left = build(preStart + 1, preStart + leftSize,
+                              postStart, leftRootPostIndex)
+            root.right = build(preStart + leftSize + 1, preEnd,
+                               leftRootPostIndex + 1, postEnd - 1)
+            return root
+
+        return build(0, len(preorder) - 1, 0, len(postorder) - 1)
