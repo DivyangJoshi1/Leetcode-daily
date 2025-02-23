@@ -2,6 +2,7 @@
 
 This repository contains my **daily Leetcode solutions** to strengthen my **problem-solving skills** in **Java** and **Python**.  
 Each problem has a dedicated folder with solutions in both languages along with a `notes.md` file explaining the approach.
+📌 **LeetCode Profile:** [My LeetCode](https://leetcode.com/u/divyang_joshi/)
 
 ---
 
