@@ -23,6 +23,7 @@ Each problem folder contains:
 6. [0206_Reverse_Linked_List](./0206_Reverse_Linked_List)
 7. [0560_Subarray_Sum_Equals_K](./0560_Subarray_Sum_Equals_K)
 8. [0704_Binary_Search](./0704_Binary_Search)
+9. [0889_Construct_BinaryTree_Using_PreOrder_PostOrder_Traversal](./0889_Construct_BinaryTree_Using_PreOrder_PostOrder_Traversal)
 
 ---
 
