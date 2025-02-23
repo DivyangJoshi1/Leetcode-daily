@@ -25,6 +25,7 @@ Each problem folder contains:
 8. [0704_Binary_Search](./0704_Binary_Search)
 9. [0889_Construct_BinaryTree_Using_PreOrder_PostOrder_Traversal](./0889_Construct_BinaryTree_Using_PreOrder_PostOrder_Traversal)
 10. [0283_Move_Zeroes](./0283_Move_Zeroes)
+11. [009_Palindrome_Number](./009_Palindrome_Number)
 ---
 
 ## 🚀 Languages Used
