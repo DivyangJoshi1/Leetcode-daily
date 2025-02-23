@@ -26,6 +26,11 @@ Each problem folder contains:
 9. [0889_Construct_BinaryTree_Using_PreOrder_PostOrder_Traversal](./0889_Construct_BinaryTree_Using_PreOrder_PostOrder_Traversal)
 10. [0283_Move_Zeroes](./0283_Move_Zeroes)
 11. [009_Palindrome_Number](./009_Palindrome_Number)
+12. [0035_Search_Insert_Position](./0035_Search_Insert_Position)
+13. [0002_Add_Two_Numbers](./0002_Add_Two_Numbers)
+14. [0215_Kth_Largest_element](./0215_Kth_Largest_element)
+15. [0238_Product_Of_Array_Except_itself](./0238_Product_Of_Array_Except_itself)
+16. [0341_Flatten_Nested_List_Iterator](./0341_Flatten_Nested_List_Iterator)
 ---
 
 ## 🚀 Languages Used
