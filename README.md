@@ -33,7 +33,7 @@ Each problem folder contains:
 16. [0341_Flatten_Nested_List_Iterator](./0341_Flatten_Nested_List_Iterator)
 17. [0242_Valid_Anagram](./0242_Valid_Anagram)
 18. [0189_Rotate_Array](./0189_Rotate_Array)
-19. [0162_Find_Peak_Element](./162_Find_Peak_Element)
+19. [0162_Find_Peak_Element](./0162_Find_Peak_Element)
 20. [0053_Maximum_Subarray](./0053_Maximum_Subarray)
 21. [0064_Minimum_Path_Sum](./0064_Minimum_Path_Sum)
 22. [0056_Merge_Intervals](./0056_Merge_Intervals)
