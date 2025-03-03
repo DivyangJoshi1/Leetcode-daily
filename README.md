@@ -31,6 +31,14 @@ Each problem folder contains:
 14. [0215_Kth_Largest_element](./0215_Kth_Largest_element)
 15. [0238_Product_Of_Array_Except_itself](./0238_Product_Of_Array_Except_itself)
 16. [0341_Flatten_Nested_List_Iterator](./0341_Flatten_Nested_List_Iterator)
+17. [0242_Valid_Anagram](./0242_Valid_Anagram)
+18. [0189_Rotate_Array](./0189_Rotate_Array)
+19. [0162_Find_Peak_Element](./162_Find_Peak_Element)
+20. [0053_Maximum_Subarray](./0053_Maximum_Subarray)
+21. [0064_Minimum_Path_Sum](./0064_Minimum_Path_Sum)
+22. [0056_Merge_Intervals](./0056_Merge_Intervals)
+23. [0221_Maximal_Square](./0221_Maximal_Square)
+24. [0141_Linked_List_Cycle](./0141_Linked_List_Cycle)
 ---
 
 ## 🚀 Languages Used
