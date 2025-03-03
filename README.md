@@ -39,6 +39,7 @@ Each problem folder contains:
 22. [0056_Merge_Intervals](./0056_Merge_Intervals)
 23. [0221_Maximal_Square](./0221_Maximal_Square)
 24. [0141_Linked_List_Cycle](./0141_Linked_List_Cycle)
+25. [0104_Maximum_Depth_Of_Binary_Tree](0104_Maximum_Depth_Of_Binary_Tree)
 ---
 
 ## 🚀 Languages Used
