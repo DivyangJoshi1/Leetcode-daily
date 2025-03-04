@@ -42,6 +42,7 @@ Each problem folder contains:
 25. [0104_Maximum_Depth_of_Binary_Tree](0104_Maximum_Depth_of_Binary_Tree)
 26. [0070_Climbing_Stairs](./0070_Climbing_Stairs)
 27. [0023_Merge-k_sorted_Lists](./0023_Merge-k_sorted_Lists)
+28. [0767_Reorganize_String](./0767_Reorganize_String)
 ---
 
 ## 🚀 Languages Used
