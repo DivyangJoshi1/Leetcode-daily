@@ -40,6 +40,7 @@ Each problem folder contains:
 23. [0221_Maximal_Square](./0221_Maximal_Square)
 24. [0141_Linked_List_Cycle](./0141_Linked_List_Cycle)
 25. [0104_Maximum_Depth_of_Binary_Tree](0104_Maximum_Depth_of_Binary_Tree)
+26. [0070_Climbing_Stairs](./0070_Climbing_Stairs)
 ---
 
 ## 🚀 Languages Used
